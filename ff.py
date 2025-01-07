@@ -1,3 +1,4 @@
+#Prototype/concept file, this is the outline
 
 from openai import OpenAI
 
